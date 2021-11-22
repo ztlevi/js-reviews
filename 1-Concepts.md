@@ -67,7 +67,7 @@ console.log(q); // true
 ```
 
 
-##`forEach`
+## forEach
 
 - Iterates through the elements in an array.
 - Executes a callback for each element.
@@ -82,7 +82,7 @@ const doubled = a.forEach((num, index) => {
 // doubled = undefined
 ```
 
-##`map`
+## map
 
 - Iterates through the elements in an array.
 - "Maps" each element to a new element by calling the function on each element, creating a new array
